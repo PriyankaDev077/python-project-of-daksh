@@ -6,3 +6,5 @@ if age>=10:
         print ("Your age is : ", age," \n You are not allowed to enter the class")
 else:
     print ("Your age is : ", age," \n You are not eligible")
+
+    
