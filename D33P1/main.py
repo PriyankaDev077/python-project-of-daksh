@@ -1,4 +1,4 @@
-import pygame 
+import pygame
 import random
 
 screen_width , screen_height = 500 , 400
@@ -51,4 +51,6 @@ while running:
         all_sprites.remove(sprite2)
         won = True
         screen.blit(background_image,(0,0))
-        all_sprites
+        all_sprites.draw(screen)
+
+        

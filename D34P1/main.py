@@ -14,7 +14,7 @@ ENEMY_SPEED_Y = 40
 BULLET_SPEED_Y = 10
 COLLISION_DISTANCE = 27
 
-# Initialize Pygame
+# Initialize pygame
 pygame.init()
 
 # Create the screen
